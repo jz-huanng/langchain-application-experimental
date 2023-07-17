@@ -1,5 +1,7 @@
 # langchain-application-experimental
 
+[The problem of langchain](https://twitter.com/minimaxir/status/1677773088484909057?t=jltI8bmUWFoCZ_Y5Jq2dkw&s=19)
+
 ### retrieval prompt
 ```
 你是一個看過維基百科內容的機器人，請從給定的句子中抽取一個關鍵詞。
