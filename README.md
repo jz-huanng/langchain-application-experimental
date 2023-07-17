@@ -107,6 +107,23 @@
 陳述句:柔軟且帶有白色光澤的石頭：銀，常用於投資型硬幣中，可作爲收藏和投資。
 關鍵字:銀硬幣
 ```
+
+### 需要多個證據句組合
+label: refutes<br>
+claim: 蔡元培提倡liberalism，這是一種以自由作爲政治價值的廣告。<br>
+evidence pages: {'自由主義', '蔡元培'}<br>
+predict: {'廣告', '蔡元培', '自由'}<br>
+evidence:<br>
+倡導自由思想 、 民權與女權 ， 致力革除 「 讀書爲官 」 之舊俗 ， 開科學性研究風氣 。<br>
+自由主義 （ liberalism ） 是一種意識形態和哲學 ， 以自由作爲主要政治價值的一系列思想流派的集合 。<br>
+### missing info in claim(corpus sentence)
+label: supports<br>
+claim: 馬爾代夫在斯里蘭卡及印度西南偏南，是亞洲地區。<br>
+evidence pages: {'馬爾代夫', '南亞'}<br>
+predict: {'印度', '西南', '馬爾代夫', '斯里蘭卡'}<br>
+evidence:<br>
+馬爾代夫共和國 （ -LSB- ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ , Dhivehi Raajjeyge Jumhooriyya -RSB- ） ， 通稱馬爾代夫 （ ދިވެހިރާއްޖެ ） ， 古稱溜山 ， 位於斯里蘭卡及印度西南偏南對出的印度洋水域約500公里處 ， 屬於南亞地區 。<br>
+馬爾地夫面積爲298平方公里 ， 爲亞洲面積最小的國家之一 ， 人口爲人 ， 馬累爲該國首都及最大城市 ， 傳統上稱之爲 「 國王之島 」 （ King 's Island ） 。<br>
 ### agent 
 #### babyagi
 ### retrieval-augmented llm
