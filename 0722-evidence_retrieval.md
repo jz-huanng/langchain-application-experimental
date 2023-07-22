@@ -31,8 +31,28 @@
 <br>
 
 ### refute
+{"id": 3625, "label": "refutes", <br>
+"claim": "漢光武帝在稱帝之後遣衆將攻伐四方，能從前方上報的排兵佈陣形勢中發現問題。他待人誠懇簡約，寬厚有信，竇融、馬援等均由此反叛 。",  <br>
+"evidence": [[[4167, 4294, "漢光武帝", 15]]],  <br>
+"predice_evidence": ["此外 ， 劉秀待人誠懇簡約 ， 寬厚有信 ， 竇融 、 馬援等均由此歸心 。", <br> 
+<br>
+{"id": 5258, "label": "refutes", 
+"claim": "第二國際沒有解散是因爲一次大戰剛好爆發。", <br>
+"evidence": [[[4024, 4175, "第二國際", 2]]], <br>
+"predice_evidence": ["組織後因第一次世界大戰爆發而解散 。", <br>
+<br>
 
 ### NOT ENOUGH INFO
+{"id": 5394, "label": "NOT ENOUGH INFO", <br>
+"claim": "阿托品靜脈乾燥後活性期約30分鐘至60分鐘。", <br>
+"evidence": [[4734, null, null, null]], <br>
+"predicted_pages": ["靜脈", "阿托品"], <br>
+<br>
+{"id": 8108, "label": "NOT ENOUGH INFO",<br>
+"claim": "網路使用者由於少了真實天分，因此有更多的輿論自由。", <br>
+"predicted_pages": ["網路白目", "IBM系統網路架構", "網路霸凌", "網路用戶", "PChome Online網路家庭", "網路論戰", "金手指網路廣告獎", "內容傳遞網路", "網路去抑制效應", "社交網路服務"], <br>
+
+
 
 ### retrive other document
 {"id": 2630, "label": "supports", <br>
